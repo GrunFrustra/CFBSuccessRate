@@ -2,6 +2,8 @@ README
 
 Objective: 
 *Analyze success rate of a team on 1st down, 2nd down, 3rd down, and 4th down.
+*Using the metrics of a successful play by Bill Connelly
+*https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings
 A first down success is when a team gains at least 50% of yards needed to get 1st down.
 A second down success is when a team gains at least 70% of yards needed to get 1st down.
 A third and fourth down success is when a team gains all the yards needed to get a 1st down.
