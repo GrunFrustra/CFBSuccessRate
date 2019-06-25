@@ -1,0 +1,25 @@
+README
+
+Objective: 
+*Analyze success rate of a team on 1st down, 2nd down, 3rd down, and 4th down.
+A first down success is when a team gains at least 50% of yards needed to get 1st down.
+A second down success is when a team gains at least 70% of yards needed to get 1st down.
+A third and fourth down success is when a team gains all the yards needed to get a 1st down.
+
+Team Class
+-team name
+-identifier
+-1st down success
+-2nd down success
+-3rd down success
+-4th down success
+-Total Success 
+# of successful plays and percentage of success for each category
+Would need to keep track of a count of plays.
+
+Play Class
+Down
+Yards Left
+Pass/Run
+Yard Result
+
