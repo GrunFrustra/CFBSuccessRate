@@ -1,7 +1,16 @@
 README
 
+6/25/2019:Working on parsing logic to get each line's values read in to a yaml file for easy storage and retrieval of values.
+
+Note:Initially, play-by-play data is obtained by manually copying and pasting ncaa.com play-by-play recaps into a text file that is 
+overwritten for each game.  Eventually the goal is to have a more complex scraper built that automatically collects this data without a 
+copy/paste, but a url.  Since I want to complete something usuable
+before the start of the season, this is the fastest result I could think of without requiring more research.
+I'm still not adept on web scraping, so a clean cut and paste of a data produced easier to parse info than page sources for game recaps.
+
 Objective: 
-*Analyze success rate of a team on 1st down, 2nd down, 3rd down, and 4th down.
+*Analyze success rate of a team on 1st down, 2nd down, 3rd down, and 4th down.  
+*Total success rate can be calculated as well with these values.
 *Using the metrics of a successful play by Bill Connelly
 *https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings
 A first down success is when a team gains at least 50% of yards needed to get 1st down.
