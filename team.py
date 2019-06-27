@@ -31,9 +31,7 @@ def retrieve_team(team_needed):
 
 def update_team(team_entry, current_play):
     team_list['Team'][team_entry]['plays'] += 1
-    print("I'm in the function with %s" % current_play.down)
     if current_play.down == '1st':
-        print("I'm in the function with %s" % current_play.success)
         if current_play.success == True:
             team_list['Team'][team_entry]['firstdown_s'] += 1
         elif current_play.success == False:

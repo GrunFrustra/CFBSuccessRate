@@ -19,10 +19,8 @@ def determine_info(data):
 
     if start_line[0].lower() == start_line[1].lower() or \
         start_line[0].lower() == start_line[2].lower():
-        print(start_line)
         return 'team'
     elif 'and' in start_line:
-        print(start_line)
         return 'play'
     else:
         return
@@ -34,15 +32,23 @@ def read_file(filename):
         while data:
             data = testfile.readline()
             if determine_info(data) == 'team':
-                data = testfile.readline()
+                split_data = data.split(' ')
+                current_team = split_data[0]
                 
+                if split_data[0].lower() == split_data[2].lower():
+                    current_team = split_data[0]+ " " + split_data[1]
+                data = testfile.readline()
                 #determine if the current line is a play
                 #play functions will be called in this loop
                 while determine_info(data) == 'play':
-                    print("Team play")
-#                    current_play = play.Play()
-#                    current_play.play_values(data)
+                    current_play = play.Play()
+                    current_play.play_values(data.lower())
 
+                        
+                    #Update yaml file
+                    if current_play.down != None:
+                        current_play.determine_success()
+                        team.update_team(current_team, current_play)
                     
                     
                     data = testfile.readline()

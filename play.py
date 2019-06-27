@@ -9,7 +9,7 @@ import yaml
 
 failwords = ['incomplete', 'false start', 'no gain', 'fumbles', 'intercepted']
 ignorewords = ['kicks', 'punts', 'extra point', 'field goal', \
-               'pass interference', 'penalty']
+               'pass interference', 'penalty', 'No play']
 downs = ['1st','2nd','3rd','4th']
 zeroyards = ['incomplete', 'no gain', 'intercepted']
 
@@ -27,6 +27,8 @@ class Play():
         pass
     
     def determine_success(self):
+        print("Current yards left: %s" %self.yards_left)
+        print("Current result: %s" %self.result)
         post_result_yards = int(self.yards_left) - int(self.result)
         
         if self.down == 'first':
@@ -46,6 +48,7 @@ class Play():
                 self.success = False
     
     def play_values(self, play_line):
+        print("I'M IN TEH PLAY FUNCTION")
         if any(word in play_line for word in ignorewords):
             print("I found an ignored word.")
             return
@@ -60,10 +63,7 @@ class Play():
         play_list = str.split(play_line)
         #Get what down it is.
         if play_list[0] in downs:
-            print("Assignment successful")
-            print(play_list[0])
             self.down = play_list[0]
-            print(self.down)
         
         #Get how many yards are left to a first down
         if play_list[play_list.index('and') + 1]:
@@ -75,6 +75,8 @@ class Play():
             self.result = 0
         else:
             self.result = play_list[play_list.index('for') + 1]
+            if self.result == 'a':
+                self.result = play_list[play_list.index('yards') - 1]
         print("DOWN IS %s" % self.down)
         print("YARDS LEFT IS %s" % self.yards_left)
         print("RESULT IS %s " % self.result)
