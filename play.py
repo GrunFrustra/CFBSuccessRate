@@ -9,7 +9,7 @@ import yaml
 
 failwords = ['incomplete', 'false start', 'no gain', 'fumbles', 'intercepted']
 ignorewords = ['kicks', 'punts', 'extra point', 'field goal', \
-               'pass interference', 'penalty', 'No play']
+               'pass interference', 'penalty', 'No play', 'touchback']
 downs = ['1st','2nd','3rd','4th']
 zeroyards = ['incomplete', 'no gain', 'intercepted']
 
@@ -64,6 +64,9 @@ class Play():
         #Get what down it is.
         if play_list[0] in downs:
             self.down = play_list[0]
+        else:
+            print("UNAVAILABLE STRING")
+            print(play_list[0])
         
         #Get how many yards are left to a first down
         if play_list[play_list.index('and') + 1]:
@@ -77,9 +80,9 @@ class Play():
             self.result = play_list[play_list.index('for') + 1]
             if self.result == 'a':
                 self.result = play_list[play_list.index('yards') - 1]
-        print("DOWN IS %s" % self.down)
-        print("YARDS LEFT IS %s" % self.yards_left)
-        print("RESULT IS %s " % self.result)
-        print(play_line)
+#        print("DOWN IS %s" % self.down)
+#        print("YARDS LEFT IS %s" % self.yards_left)
+#        print("RESULT IS %s " % self.result)
+#        print(play_line)
             
             

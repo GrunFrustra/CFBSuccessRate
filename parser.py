@@ -20,7 +20,8 @@ def determine_info(data):
     if start_line[0].lower() == start_line[1].lower() or \
         start_line[0].lower() == start_line[2].lower():
         return 'team'
-    elif 'and' in start_line:
+    elif 'and' in start_line or 'kicks' in start_line or \
+    'point' in start_line:
         return 'play'
     else:
         return
@@ -48,7 +49,7 @@ def read_file(filename):
                     #Update yaml file
                     if current_play.down != None:
                         current_play.determine_success()
-                        team.update_team(current_team, current_play)
+                    team.update_team(current_team, current_play)
                     
                     
                     data = testfile.readline()

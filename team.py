@@ -6,7 +6,7 @@ Created on Thu Jun 20 19:28:03 2019
 """
 import yaml
 import collections
-with open('testwrite.yml') as fin:
+with open('teststats.yml') as fin:
     print("This is running")
     team_data = fin.read()
 team_list = yaml.load(team_data)
@@ -31,6 +31,7 @@ def retrieve_team(team_needed):
 
 def update_team(team_entry, current_play):
     team_list['Team'][team_entry]['plays'] += 1
+    print(current_play)
     if current_play.down == '1st':
         if current_play.success == True:
             team_list['Team'][team_entry]['firstdown_s'] += 1
