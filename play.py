@@ -79,7 +79,7 @@ class Play():
         else:
             self.result = play_list[play_list.index('for') + 1]
             if self.result == 'a':
-                self.result = play_list[play_list.index('yards') - 1]
+                self.result = play_list[play_list.index('for') - 2]
 #        print("DOWN IS %s" % self.down)
 #        print("YARDS LEFT IS %s" % self.yards_left)
 #        print("RESULT IS %s " % self.result)

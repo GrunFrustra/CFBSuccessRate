@@ -34,6 +34,7 @@ def read_file(filename):
         data = testfile.readline()
         while data:
             #Change the team if a line is the start of a drive
+            print(data)
             if determine_info(data) == 'team':
                 split_data = data.split(' ')
                 current_team = split_data[0]
