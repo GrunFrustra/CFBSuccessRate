@@ -1,6 +1,6 @@
 README
 
-6/25/2019:Working on parsing logic to get each line's values read in to a yaml file for easy storage and retrieval of values.
+6/28/2019: Baseline parsing logic works.  Unit testing is only 50% done, need to test several edge cases.
 
 Note:Initially, play-by-play data is obtained by manually copying and pasting ncaa.com play-by-play recaps into a text file that is 
 overwritten for each game.  Eventually the goal is to have a more complex scraper built that automatically collects this data without a 
