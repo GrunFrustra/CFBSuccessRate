@@ -30,29 +30,26 @@ def read_file(filename):
     #Verify the logic works and now play lines are skipped
     with open(filename, 'rt') as testfile:
         data = " "
+        current_team = " "
+        data = testfile.readline()
         while data:
-            data = testfile.readline()
+            #Change the team if a line is the start of a drive
             if determine_info(data) == 'team':
                 split_data = data.split(' ')
                 current_team = split_data[0]
-                
+        
                 if split_data[0].lower() == split_data[2].lower():
                     current_team = split_data[0]+ " " + split_data[1]
-                data = testfile.readline()
-                #determine if the current line is a play
-                #play functions will be called in this loop
-                while determine_info(data) == 'play':
-                    current_play = play.Play()
-                    current_play.play_values(data.lower())
-
-                        
-                    #Update yaml file
-                    if current_play.down != None:
-                        current_play.determine_success()
-                    team.update_team(current_team, current_play)
-                    
-                    
-                    data = testfile.readline()
+            elif determine_info(data) == 'play':
+                current_play = play.Play()
+                current_play.play_values(data.lower())
+                
+                #Update yaml file
+                if current_play.down != None:
+                    current_play.determine_success()
+                team.update_team(current_team, current_play)
+            #prepare next line for start of loop
+            data = testfile.readline()
 
 read_file('example')
 
