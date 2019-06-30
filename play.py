@@ -52,11 +52,6 @@ class Play():
         if any(word in play_line for word in ignorewords):
             print("I found an ignored word.")
             return
-        '''
-        test_play.play_values("1st and 10 at ND25	\
-                      2-D.Williams to ND 36\
-                      for 11 yards (34-K.Joseph,1-T.Mullen).")
-        '''
         if any(word in play_line for word in failwords):
             self.success = False
             
