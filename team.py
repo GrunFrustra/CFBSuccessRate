@@ -6,7 +6,7 @@ Created on Thu Jun 20 19:28:03 2019
 """
 import yaml
 import collections
-with open('teststats.yml') as fin:
+with open('testwrite.yml') as fin:
     print("This is running")
     team_data = fin.read()
 team_list = yaml.load(team_data)

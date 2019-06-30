@@ -18,7 +18,8 @@ def determine_info(data):
         return
 
     if start_line[0].lower() == start_line[1].lower() or \
-        start_line[0].lower() == start_line[2].lower():
+        start_line[0].lower() == start_line[2].lower() or \
+        start_line[0].lower() == start_line[3].lower():
         return 'team'
     elif 'and' in start_line or 'kicks' in start_line or \
     'point' in start_line:
@@ -41,6 +42,9 @@ def read_file(filename):
         
                 if split_data[0].lower() == split_data[2].lower():
                     current_team = split_data[0]+ " " + split_data[1]
+                if split_data[0].lower() == split_data[3].lower():
+                    current_team = split_data[0]+ " " + split_data[1] + \
+                    " " + split_data[2]
             elif determine_info(data) == 'play':
                 current_play = play.Play()
                 current_play.play_values(data.lower())
