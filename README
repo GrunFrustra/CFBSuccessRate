@@ -1,6 +1,8 @@
 README
 
-6/28/2019: Baseline parsing logic works.  Unit testing is only 50% done, need to test several edge cases.
+6/30/2019:
+-Added individual game success rate calculations.  It currently prints to console, still determining ways to store the data.
+-Still testing edge cases, running  through multiple game's play-by-play data, and catching bugs as they occur.
 
 Note:Initially, play-by-play data is obtained by manually copying and pasting ncaa.com play-by-play recaps into a text file that is 
 overwritten for each game.  Eventually the goal is to have a more complex scraper built that automatically collects this data without a 
