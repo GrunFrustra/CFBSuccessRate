@@ -11,7 +11,10 @@ with open('testwrite.yml') as fin:
     team_data = fin.read()
 team_list = yaml.load(team_data)
 
-
+with open('backup.yml', 'w') as backup:
+    print("The dump is also running.")
+    yaml.dump(team_list, backup)
+       
 
 class Team():
     def __init__(self, name):
