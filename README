@@ -1,7 +1,7 @@
 README
 
 6/30/2019:
--Added individual game success rate calculations.  It currently prints to console, still determining ways to store the data.
+-Data now prints to a directory.  A File stores each individual team's success rate data.
 -Still testing edge cases, running  through multiple game's play-by-play data, and catching bugs as they occur.
 
 Note:Initially, play-by-play data is obtained by manually copying and pasting ncaa.com play-by-play recaps into a text file that is 
