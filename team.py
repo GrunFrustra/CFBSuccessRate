@@ -117,15 +117,20 @@ def game_report():
                 
     team1srate = team1scount / team1fcount
     team2srate = team2scount / team2fcount
-    print(team1)
-    print("Successful Plays: %d" % team1scount)
-    print("Failed Plays: %d" % team1fcount)
-    print("Success Rate: %f" % team1srate)
-    print()
-    print(team2)
-    print("Successful Plays: %d" % team2scount)
-    print("Failed Plays: %d" % team2fcount)
-    print("Success Rate: %f" % team2srate)
+    
+    file_name = team1 + " vs. " + team2
+    write_to_files = [file_name, team1, team2]
+    for x in write_to_files:
+        with open('./Games/' + x, 'a') as fout:
+            fout.write(team1 + "\n")
+            fout.write("Successful Plays: %d \n" % team1scount)
+            fout.write("Failed Plays: %d \n" % team1fcount)
+            fout.write("Success Rate: %f \n" % team1srate)
+            fout.write(team2 + "\n")
+            fout.write("Successful Plays: %d \n" % team2scount)
+            fout.write("Failed Plays: %d \n" % team2fcount)
+            fout.write("Success Rate: %f \n" % team2srate)
+            fout.write("\n")
 
 def commitUpdates():
     #team_list['Team']['Tulane'][0]['plays'] = 74

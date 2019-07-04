@@ -26,6 +26,7 @@ class Play():
         #read yaml documentation
         pass
     
+    #Determine if a play succeeded in the appropriate down of the play.
     def determine_success(self):
         print("Current yards left: %s" %self.yards_left)
         print("Current result: %s" %self.result)
@@ -48,7 +49,7 @@ class Play():
                 self.success = False
     
     def play_values(self, play_line):
-        print("I'M IN TEH PLAY FUNCTION")
+        #Check if a play should be ignored based on words used in description.
         if any(word in play_line for word in ignorewords):
             print("I found an ignored word.")
             return
@@ -56,7 +57,8 @@ class Play():
             self.success = False
             
         play_list = str.split(play_line)
-        #Get what down it is.
+        
+        #Get what down it is.  Ignore if it doesn't fit the play format.
         if play_list[0] in downs:
             self.down = play_list[0]
         else:
