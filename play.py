@@ -40,6 +40,7 @@ class Play():
             if float(post_result_yards) <= .5 * float(self.yards_left):
                 print("SUCCESS!!!!!!!!!")
                 self.success =  True
+                print(self.success)
             else:
                 self.success = False
         if self.down == '2nd':
@@ -47,10 +48,11 @@ class Play():
                 self.success = True
             else:
                 self.success = False
-        if self.down == '3rd' or '4th':
+        if self.down == '3rd' or self.down == '4th':
             if float(post_result_yards) <= 0.0:
                 self.success = True
             else:
+                print("THIS IS ALSO HAPPENING")
                 self.success = False
     
     def play_values(self, play_line):

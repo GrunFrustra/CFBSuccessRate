@@ -118,8 +118,8 @@ def game_report():
                 game_list['Team'][team2]['thirddown_f'] + \
                 game_list['Team'][team2]['fourthdown_f']
                 
-    team1srate = team1scount / team1fcount
-    team2srate = team2scount / team2fcount
+    team1srate = team1scount / (team1fcount + team1scount)
+    team2srate = team2scount / (team2fcount + team2scount)
     
     #Print to console
     print(team1 + "\n")
