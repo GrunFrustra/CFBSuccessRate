@@ -1,14 +1,24 @@
 Team:
-  Air Force:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+  Abilene Christian:
+    firstdown_f: 14
+    firstdown_s: 16
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 96
+    seconddown_s: 12
+    secondown_f: 9
+    thirddown_f: 8
+    thirddown_s: 6
+  Air Force:
+    firstdown_f: 20
+    firstdown_s: 10
+    fourthdown_f: 1
+    fourthdown_s: 5
+    plays: 103
+    seconddown_s: 18
+    secondown_f: 9
+    thirddown_f: 13
+    thirddown_s: 8
   Akron:
     firstdown_f: 0
     firstdown_s: 0
@@ -20,6 +30,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Alabama:
+    firstdown_f: 13
+    firstdown_s: 15
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 88
+    seconddown_s: 15
+    secondown_f: 10
+    thirddown_f: 6
+    thirddown_s: 10
+  Alabama A&M:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -29,7 +49,7 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Appalachian State:
+  Alabama State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -39,37 +59,77 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Albany:
+    firstdown_f: 15
+    firstdown_s: 9
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 78
+    seconddown_s: 10
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 5
+  Alcorn State:
+    firstdown_f: 12
+    firstdown_s: 8
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 70
+    seconddown_s: 7
+    secondown_f: 12
+    thirddown_f: 9
+    thirddown_s: 2
+  Appalachian St.:
+    firstdown_f: 13
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 101
+    seconddown_s: 15
+    secondown_f: 9
+    thirddown_f: 9
+    thirddown_s: 6
   Arizona:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 18
+    firstdown_s: 14
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Arizona State:
-    firstdown_f: 0
-    firstdown_s: 0
+    fourthdown_s: 2
+    plays: 91
+    seconddown_s: 11
+    secondown_f: 10
+    thirddown_f: 9
+    thirddown_s: 6
+  Arizona St.:
+    firstdown_f: 10
+    firstdown_s: 19
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 2
+    plays: 82
+    seconddown_s: 11
+    secondown_f: 7
+    thirddown_f: 7
+    thirddown_s: 3
   Arkansas:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 12
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 86
+    seconddown_s: 14
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 7
   Arkansas State:
+    firstdown_f: 19
+    firstdown_s: 19
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 99
+    seconddown_s: 17
+    secondown_f: 9
+    thirddown_f: 5
+    thirddown_s: 6
+  Arkansas-Pine Bluff:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -79,47 +139,67 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Army:
-    firstdown_f: 0
-    firstdown_s: 0
+  Army West Point:
+    firstdown_f: 20
+    firstdown_s: 6
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 4
+    plays: 87
+    seconddown_s: 14
+    secondown_f: 10
+    thirddown_f: 9
+    thirddown_s: 5
   Auburn:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 22
+    firstdown_s: 13
     fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 99
+    seconddown_s: 18
+    secondown_f: 6
+    thirddown_f: 9
+    thirddown_s: 9
+  Austin Peay:
+    firstdown_f: 14
+    firstdown_s: 5
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 70
+    seconddown_s: 10
+    secondown_f: 7
+    thirddown_f: 10
+    thirddown_s: 2
   BYU:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 15
+    firstdown_s: 17
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 92
+    seconddown_s: 19
+    secondown_f: 7
+    thirddown_f: 7
+    thirddown_s: 5
   Ball State:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 31
+    firstdown_s: 5
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 99
+    seconddown_s: 13
+    secondown_f: 16
+    thirddown_f: 5
+    thirddown_s: 11
+  Baylor:
+    firstdown_f: 12
+    firstdown_s: 25
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Baylor:
+    plays: 84
+    seconddown_s: 14
+    secondown_f: 4
+    thirddown_f: 7
+    thirddown_s: 2
+  Bethune-Cookman:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -130,16 +210,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Boise State:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 13
+    firstdown_s: 11
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 77
+    seconddown_s: 9
+    secondown_f: 9
+    thirddown_f: 6
+    thirddown_s: 9
   Boston College:
+    firstdown_f: 24
+    firstdown_s: 17
+    fourthdown_f: 2
+    fourthdown_s: 0
+    plays: 105
+    seconddown_s: 27
+    secondown_f: 6
+    thirddown_f: 6
+    thirddown_s: 5
+  Bowling Green:
+    firstdown_f: 24
+    firstdown_s: 12
+    fourthdown_f: 3
+    fourthdown_s: 1
+    plays: 110
+    seconddown_s: 18
+    secondown_f: 12
+    thirddown_f: 14
+    thirddown_s: 5
+  Brown:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -149,7 +249,17 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Bowling Green:
+  Bryant University:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Bucknell:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -160,6 +270,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Buffalo:
+    firstdown_f: 18
+    firstdown_s: 10
+    fourthdown_f: 0
+    fourthdown_s: 5
+    plays: 88
+    seconddown_s: 13
+    secondown_f: 6
+    thirddown_f: 11
+    thirddown_s: 2
+  Butler:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Cal Poly:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -170,6 +300,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   California:
+    firstdown_f: 19
+    firstdown_s: 12
+    fourthdown_f: 1
+    fourthdown_s: 3
+    plays: 106
+    seconddown_s: 15
+    secondown_f: 13
+    thirddown_f: 13
+    thirddown_s: 4
+  Campbell:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -179,16 +319,46 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Central Michigan:
-    firstdown_f: 0
-    firstdown_s: 0
+  Cent. Conn. St.:
+    firstdown_f: 23
+    firstdown_s: 3
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 91
+    seconddown_s: 8
+    secondown_f: 14
+    thirddown_f: 10
+    thirddown_s: 4
+  Central Ark.:
+    firstdown_f: 16
+    firstdown_s: 9
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
+    fourthdown_s: 1
+    plays: 82
+    seconddown_s: 12
+    secondown_f: 8
+    thirddown_f: 9
     thirddown_s: 0
+  Central Mich.:
+    firstdown_f: 14
+    firstdown_s: 11
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 92
+    seconddown_s: 18
+    secondown_f: 4
+    thirddown_f: 11
+    thirddown_s: 6
+  Charleston So.:
+    firstdown_f: 18
+    firstdown_s: 3
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 82
+    seconddown_s: 7
+    secondown_f: 13
+    thirddown_f: 11
+    thirddown_s: 3
   Charlotte:
     firstdown_f: 0
     firstdown_s: 0
@@ -199,7 +369,27 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Chattanooga:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
   Cincinnati:
+    firstdown_f: 16
+    firstdown_s: 15
+    fourthdown_f: 1
+    fourthdown_s: 3
+    plays: 101
+    seconddown_s: 15
+    secondown_f: 8
+    thirddown_f: 13
+    thirddown_s: 5
+  Citadel:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -210,16 +400,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Clemson:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 12
+    firstdown_s: 19
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 84
+    seconddown_s: 13
+    secondown_f: 11
+    thirddown_f: 8
+    thirddown_s: 5
+  Coastal Caro.:
+    firstdown_f: 17
+    firstdown_s: 10
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Coastal Carolina:
+    plays: 80
+    seconddown_s: 12
+    secondown_f: 8
+    thirddown_f: 7
+    thirddown_s: 2
+  Colgate:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -230,16 +430,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Colorado:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 17
+    firstdown_s: 15
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 80
+    seconddown_s: 18
+    secondown_f: 5
+    thirddown_f: 4
+    thirddown_s: 4
   Colorado State:
+    firstdown_f: 20
+    firstdown_s: 12
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 102
+    seconddown_s: 12
+    secondown_f: 11
+    thirddown_f: 12
+    thirddown_s: 7
+  Columbia:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -249,7 +459,67 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Connecticut:
+  Cornell:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Dartmouth:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Davidson:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Dayton:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Delaware:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Delaware State:
+    firstdown_f: 21
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 91
+    seconddown_s: 12
+    secondown_f: 10
+    thirddown_f: 9
+    thirddown_s: 7
+  Drake:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -260,15 +530,25 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Duke:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 10
+    firstdown_s: 16
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 67
+    seconddown_s: 12
+    secondown_f: 4
+    thirddown_f: 7
+    thirddown_s: 2
+  Duquesne:
+    firstdown_f: 23
+    firstdown_s: 3
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 90
+    seconddown_s: 2
+    secondown_f: 19
+    thirddown_f: 11
+    thirddown_s: 7
   East Carolina:
     firstdown_f: 0
     firstdown_s: 0
@@ -279,6 +559,46 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  East Tennessee State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Eastern Illinois:
+    firstdown_f: 22
+    firstdown_s: 10
+    fourthdown_f: 1
+    fourthdown_s: 3
+    plays: 106
+    seconddown_s: 17
+    secondown_f: 10
+    thirddown_f: 12
+    thirddown_s: 6
+  Eastern Kentucky:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Eastern Mich.:
+    firstdown_f: 18
+    firstdown_s: 11
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 82
+    seconddown_s: 19
+    secondown_f: 4
+    thirddown_f: 4
+    thirddown_s: 7
   Eastern Michigan:
     firstdown_f: 0
     firstdown_s: 0
@@ -289,7 +609,37 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Elon:
+    firstdown_f: 20
+    firstdown_s: 6
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 83
+    seconddown_s: 9
+    secondown_f: 12
+    thirddown_f: 10
+    thirddown_s: 4
+  FIU:
+    firstdown_f: 21
+    firstdown_s: 8
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 87
+    seconddown_s: 20
+    secondown_f: 4
+    thirddown_f: 7
+    thirddown_s: 5
   Florida:
+    firstdown_f: 15
+    firstdown_s: 19
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 82
+    seconddown_s: 11
+    secondown_f: 9
+    thirddown_f: 7
+    thirddown_s: 2
+  Florida A&M:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -300,25 +650,15 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Florida Atlantic:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Florida International:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 21
+    firstdown_s: 11
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 102
+    seconddown_s: 12
+    secondown_f: 11
+    thirddown_f: 11
+    thirddown_s: 4
   Florida State:
     firstdown_f: 0
     firstdown_s: 0
@@ -329,7 +669,57 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Fordham:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
   Fresno State:
+    firstdown_f: 15
+    firstdown_s: 18
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 93
+    seconddown_s: 22
+    secondown_f: 4
+    thirddown_f: 4
+    thirddown_s: 8
+  Furman:
+    firstdown_f: 19
+    firstdown_s: 3
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 86
+    seconddown_s: 10
+    secondown_f: 12
+    thirddown_f: 11
+    thirddown_s: 5
+  Ga. Southern:
+    firstdown_f: 15
+    firstdown_s: 11
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 72
+    seconddown_s: 15
+    secondown_f: 6
+    thirddown_f: 5
+    thirddown_s: 7
+  Gardner-Webb:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Georgetown:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -340,26 +730,46 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Georgia:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 18
+    firstdown_s: 10
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Georgia Southern:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 71
+    seconddown_s: 17
+    secondown_f: 5
+    thirddown_f: 5
+    thirddown_s: 4
   Georgia State:
+    firstdown_f: 26
+    firstdown_s: 4
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 84
+    seconddown_s: 10
+    secondown_f: 13
+    thirddown_f: 6
+    thirddown_s: 6
+  Georgia Tech:
+    firstdown_f: 14
+    firstdown_s: 21
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 83
+    seconddown_s: 18
+    secondown_f: 6
+    thirddown_f: 3
+    thirddown_s: 8
+  Grambling:
+    firstdown_f: 17
+    firstdown_s: 10
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 90
+    seconddown_s: 10
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 6
+  Hampton:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -369,7 +779,7 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Georgia Tech:
+  Harvard:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -380,6 +790,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Hawaii:
+    firstdown_f: 18
+    firstdown_s: 12
+    fourthdown_f: 0
+    fourthdown_s: 3
+    plays: 88
+    seconddown_s: 14
+    secondown_f: 10
+    thirddown_f: 5
+    thirddown_s: 7
+  Holy Cross:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -390,6 +810,46 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Houston:
+    firstdown_f: 13
+    firstdown_s: 19
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 81
+    seconddown_s: 9
+    secondown_f: 8
+    thirddown_f: 6
+    thirddown_s: 5
+  Houston Baptist:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Howard:
+    firstdown_f: 25
+    firstdown_s: 12
+    fourthdown_f: 2
+    fourthdown_s: 0
+    plays: 115
+    seconddown_s: 14
+    secondown_f: 15
+    thirddown_f: 9
+    thirddown_s: 12
+  Idaho:
+    firstdown_f: 18
+    firstdown_s: 9
+    fourthdown_f: 1
+    fourthdown_s: 3
+    plays: 90
+    seconddown_s: 11
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 3
+  Idaho State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -400,6 +860,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Illinois:
+    firstdown_f: 15
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 91
+    seconddown_s: 16
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 7
+  Illinois State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Incarnate Word:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -410,6 +890,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Indiana:
+    firstdown_f: 19
+    firstdown_s: 16
+    fourthdown_f: 0
+    fourthdown_s: 3
+    plays: 102
+    seconddown_s: 22
+    secondown_f: 6
+    thirddown_f: 8
+    thirddown_s: 8
+  Indiana State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -420,15 +910,15 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Iowa:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 21
+    firstdown_s: 7
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 93
+    seconddown_s: 18
+    secondown_f: 6
+    thirddown_f: 8
+    thirddown_s: 8
   Iowa State:
     firstdown_f: 0
     firstdown_s: 0
@@ -439,37 +929,97 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Jackson State:
+    firstdown_f: 19
+    firstdown_s: 6
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 83
+    seconddown_s: 8
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 3
+  Jacksonville:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Jacksonville State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  James Madison:
+    firstdown_f: 20
+    firstdown_s: 10
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 84
+    seconddown_s: 18
+    secondown_f: 5
+    thirddown_f: 6
+    thirddown_s: 7
   Kansas:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 22
+    firstdown_s: 7
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Kansas State:
-    firstdown_f: 0
-    firstdown_s: 0
+    plays: 96
+    seconddown_s: 11
+    secondown_f: 14
+    thirddown_f: 11
+    thirddown_s: 6
+  Kansas St.:
+    firstdown_f: 23
+    firstdown_s: 10
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 98
+    seconddown_s: 9
+    secondown_f: 12
+    thirddown_f: 11
+    thirddown_s: 9
+  Kennesaw State:
+    firstdown_f: 25
+    firstdown_s: 1
+    fourthdown_f: 2
+    fourthdown_s: 4
+    plays: 86
+    seconddown_s: 8
+    secondown_f: 16
+    thirddown_f: 10
+    thirddown_s: 5
   Kent State:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 22
+    firstdown_s: 14
+    fourthdown_f: 1
+    fourthdown_s: 4
+    plays: 104
+    seconddown_s: 12
+    secondown_f: 14
+    thirddown_f: 12
+    thirddown_s: 5
   Kentucky:
+    firstdown_f: 18
+    firstdown_s: 16
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 90
+    seconddown_s: 15
+    secondown_f: 7
+    thirddown_f: 6
+    thirddown_s: 7
+  LSU:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -479,7 +1029,27 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  LSU:
+  Lafayette:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Lamar:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Lehigh:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -500,16 +1070,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Louisiana:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 16
+    firstdown_s: 18
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 91
+    seconddown_s: 18
+    secondown_f: 8
+    thirddown_f: 3
+    thirddown_s: 7
   Louisiana Tech:
+    firstdown_f: 16
+    firstdown_s: 18
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 97
+    seconddown_s: 15
+    secondown_f: 8
+    thirddown_f: 11
+    thirddown_s: 4
+  Louisville:
+    firstdown_f: 18
+    firstdown_s: 11
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 97
+    seconddown_s: 8
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 4
+  Maine:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -519,7 +1109,7 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Louisville:
+  Marist:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -530,26 +1120,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Marshall:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 15
+    firstdown_s: 19
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 96
+    seconddown_s: 20
+    secondown_f: 5
+    thirddown_f: 7
+    thirddown_s: 6
   Maryland:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 24
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 108
+    seconddown_s: 13
+    secondown_f: 14
+    thirddown_f: 12
+    thirddown_s: 6
   Massachusetts:
+    firstdown_f: 40
+    firstdown_s: 21
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 174
+    seconddown_s: 19
+    secondown_f: 24
+    thirddown_f: 16
+    thirddown_s: 10
+  McNeese State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -560,15 +1160,25 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Memphis:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 20
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 103
+    seconddown_s: 21
+    secondown_f: 9
+    thirddown_f: 5
+    thirddown_s: 9
+  Mercer:
+    firstdown_f: 17
+    firstdown_s: 2
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 77
+    seconddown_s: 8
+    secondown_f: 10
+    thirddown_f: 10
+    thirddown_s: 4
   Miami:
     firstdown_f: 0
     firstdown_s: 0
@@ -579,67 +1189,77 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Miami OH:
-    firstdown_f: 0
-    firstdown_s: 0
+  Miami (Ohio):
+    firstdown_f: 18
+    firstdown_s: 13
+    fourthdown_f: 3
+    fourthdown_s: 2
+    plays: 96
+    seconddown_s: 12
+    secondown_f: 8
+    thirddown_f: 10
+    thirddown_s: 5
+  Mich. St.:
+    firstdown_f: 30
+    firstdown_s: 2
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 97
+    seconddown_s: 8
+    secondown_f: 17
+    thirddown_f: 6
+    thirddown_s: 12
   Michigan:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 14
+    firstdown_s: 15
+    fourthdown_f: 3
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Michigan State:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Middle Tennessee:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 84
+    seconddown_s: 13
+    secondown_f: 11
+    thirddown_f: 8
+    thirddown_s: 6
+  Middle Tenn.:
+    firstdown_f: 20
+    firstdown_s: 10
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 94
+    seconddown_s: 14
+    secondown_f: 8
+    thirddown_f: 10
+    thirddown_s: 8
   Minnesota:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 29
+    firstdown_s: 9
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 101
+    seconddown_s: 13
+    secondown_f: 16
+    thirddown_f: 9
+    thirddown_s: 5
   Mississippi:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 11
+    firstdown_s: 18
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Mississippi State:
+    fourthdown_s: 1
+    plays: 81
+    seconddown_s: 6
+    secondown_f: 9
+    thirddown_f: 10
+    thirddown_s: 3
+  Mississippi St.:
+    firstdown_f: 18
+    firstdown_s: 16
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 93
+    seconddown_s: 15
+    secondown_f: 7
+    thirddown_f: 6
+    thirddown_s: 6
+  Mississippi Valley State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -650,6 +1270,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Missouri:
+    firstdown_f: 20
+    firstdown_s: 14
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 101
+    seconddown_s: 21
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 6
+  Missouri State:
+    firstdown_f: 23
+    firstdown_s: 4
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 93
+    seconddown_s: 4
+    secondown_f: 18
+    thirddown_f: 10
+    thirddown_s: 5
+  Monmouth:
+    firstdown_f: 21
+    firstdown_s: 12
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 106
+    seconddown_s: 13
+    secondown_f: 12
+    thirddown_f: 11
+    thirddown_s: 7
+  Montana:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -659,26 +1309,76 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Montana State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Morehead State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Morgan State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Murray State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  N'western St.:
+    firstdown_f: 17
+    firstdown_s: 5
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 84
+    seconddown_s: 2
+    secondown_f: 12
+    thirddown_f: 11
+    thirddown_s: 1
   NC State:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 21
+    firstdown_s: 10
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 86
+    seconddown_s: 11
+    secondown_f: 13
+    thirddown_f: 5
+    thirddown_s: 11
   Navy:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 15
+    firstdown_s: 13
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 80
+    seconddown_s: 11
+    secondown_f: 8
+    thirddown_f: 7
+    thirddown_s: 5
   Nebraska:
     firstdown_f: 0
     firstdown_s: 0
@@ -690,6 +1390,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Nevada:
+    firstdown_f: 14
+    firstdown_s: 21
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 86
+    seconddown_s: 12
+    secondown_f: 6
+    thirddown_f: 5
+    thirddown_s: 4
+  New Hampshire:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -709,7 +1419,37 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  New Mexico State:
+  New Mexico St.:
+    firstdown_f: 41
+    firstdown_s: 6
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 183
+    seconddown_s: 9
+    secondown_f: 34
+    thirddown_f: 26
+    thirddown_s: 5
+  Nicholls State:
+    firstdown_f: 21
+    firstdown_s: 10
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 94
+    seconddown_s: 15
+    secondown_f: 6
+    thirddown_f: 10
+    thirddown_s: 11
+  Norfolk State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  North Alabama:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -720,6 +1460,46 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   North Carolina:
+    firstdown_f: 18
+    firstdown_s: 11
+    fourthdown_f: 0
+    fourthdown_s: 3
+    plays: 92
+    seconddown_s: 13
+    secondown_f: 9
+    thirddown_f: 13
+    thirddown_s: 4
+  North Carolina A&T:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  North Carolina Central:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  North Dakota:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  North Dakota State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -730,6 +1510,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   North Texas:
+    firstdown_f: 21
+    firstdown_s: 22
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 115
+    seconddown_s: 15
+    secondown_f: 16
+    thirddown_f: 8
+    thirddown_s: 9
+  Northern Ariz.:
+    firstdown_f: 11
+    firstdown_s: 14
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 79
+    seconddown_s: 11
+    secondown_f: 8
+    thirddown_f: 9
+    thirddown_s: 6
+  Northern Colorado:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -739,7 +1539,17 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Northern Illinois:
+  Northern Ill.:
+    firstdown_f: 18
+    firstdown_s: 9
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 79
+    seconddown_s: 13
+    secondown_f: 9
+    thirddown_f: 9
+    thirddown_s: 3
+  Northern Iowa:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -750,65 +1560,65 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Northwestern:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 25
+    firstdown_s: 10
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 104
+    seconddown_s: 6
+    secondown_f: 18
+    thirddown_f: 11
+    thirddown_s: 6
   Notre Dame:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 19
+    firstdown_s: 10
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 88
+    seconddown_s: 9
+    secondown_f: 13
+    thirddown_f: 7
+    thirddown_s: 7
   Ohio:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 18
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Ohio State:
-    firstdown_f: 0
-    firstdown_s: 0
+    fourthdown_s: 1
+    plays: 96
+    seconddown_s: 11
+    secondown_f: 10
+    thirddown_f: 11
+    thirddown_s: 4
+  Ohio St.:
+    firstdown_f: 17
+    firstdown_s: 26
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 110
+    seconddown_s: 19
+    secondown_f: 8
+    thirddown_f: 3
+    thirddown_s: 12
   Oklahoma:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 14
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 78
+    seconddown_s: 15
+    secondown_f: 6
+    thirddown_f: 4
+    thirddown_s: 6
   Oklahoma State:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 29
+    firstdown_s: 12
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 2
+    plays: 114
+    seconddown_s: 8
+    secondown_f: 20
+    thirddown_f: 6
+    thirddown_s: 11
   Old Dominion:
     firstdown_f: 0
     firstdown_s: 0
@@ -820,26 +1630,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Oregon:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 12
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 92
+    seconddown_s: 15
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 5
+  Oregon St.:
+    firstdown_f: 18
+    firstdown_s: 9
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Oregon State:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Penn State:
+    plays: 91
+    seconddown_s: 8
+    secondown_f: 12
+    thirddown_f: 10
+    thirddown_s: 6
+  Penn St.:
+    firstdown_f: 19
+    firstdown_s: 16
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 102
+    seconddown_s: 21
+    secondown_f: 7
+    thirddown_f: 9
+    thirddown_s: 6
+  Pennsylvania:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -850,6 +1670,46 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Pittsburgh:
+    firstdown_f: 11
+    firstdown_s: 18
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 71
+    seconddown_s: 18
+    secondown_f: 4
+    thirddown_f: 3
+    thirddown_s: 6
+  Portland State:
+    firstdown_f: 24
+    firstdown_s: 6
+    fourthdown_f: 2
+    fourthdown_s: 2
+    plays: 113
+    seconddown_s: 9
+    secondown_f: 15
+    thirddown_f: 16
+    thirddown_s: 3
+  Prairie View A&M:
+    firstdown_f: 18
+    firstdown_s: 7
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 77
+    seconddown_s: 5
+    secondown_f: 12
+    thirddown_f: 9
+    thirddown_s: 2
+  Presbyterian:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Princeton:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -860,6 +1720,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Purdue:
+    firstdown_f: 24
+    firstdown_s: 10
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 92
+    seconddown_s: 4
+    secondown_f: 17
+    thirddown_f: 7
+    thirddown_s: 7
+  Rhode Island:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -870,6 +1740,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Rice:
+    firstdown_f: 48
+    firstdown_s: 19
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 207
+    seconddown_s: 21
+    secondown_f: 30
+    thirddown_f: 21
+    thirddown_s: 15
+  Richmond:
+    firstdown_f: 16
+    firstdown_s: 4
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 66
+    seconddown_s: 9
+    secondown_f: 8
+    thirddown_f: 8
+    thirddown_s: 2
+  Robert Morris:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -880,6 +1770,46 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Rutgers:
+    firstdown_f: 18
+    firstdown_s: 16
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 90
+    seconddown_s: 19
+    secondown_f: 6
+    thirddown_f: 5
+    thirddown_s: 9
+  S. Carolina St.:
+    firstdown_f: 15
+    firstdown_s: 5
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 68
+    seconddown_s: 9
+    secondown_f: 10
+    thirddown_f: 8
+    thirddown_s: 4
+  SFA:
+    firstdown_f: 20
+    firstdown_s: 10
+    fourthdown_f: 2
+    fourthdown_s: 1
+    plays: 106
+    seconddown_s: 8
+    secondown_f: 16
+    thirddown_f: 15
+    thirddown_s: 3
+  SMU:
+    firstdown_f: 12
+    firstdown_s: 7
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 63
+    seconddown_s: 8
+    secondown_f: 6
+    thirddown_f: 8
+    thirddown_s: 2
+  Sacramento State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -889,7 +1819,37 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  SMU:
+  Sacred Heart:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Sam Houston State:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Samford:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  San Diego:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -900,15 +1860,15 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   San Diego State:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 17
+    firstdown_s: 5
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 73
+    seconddown_s: 4
+    secondown_f: 13
+    thirddown_f: 8
+    thirddown_s: 4
   San Jose State:
     firstdown_f: 0
     firstdown_s: 0
@@ -919,17 +1879,47 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  South Alabama:
-    firstdown_f: 0
-    firstdown_s: 0
+  Savannah State:
+    firstdown_f: 19
+    firstdown_s: 4
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 82
+    seconddown_s: 5
+    secondown_f: 12
+    thirddown_f: 11
+    thirddown_s: 1
+  South Alabama:
+    firstdown_f: 17
+    firstdown_s: 11
+    fourthdown_f: 1
+    fourthdown_s: 4
+    plays: 81
+    seconddown_s: 10
+    secondown_f: 10
+    thirddown_f: 11
+    thirddown_s: 2
   South Carolina:
+    firstdown_f: 15
+    firstdown_s: 24
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 87
+    seconddown_s: 18
+    secondown_f: 4
+    thirddown_f: 4
+    thirddown_s: 4
+  South Dakota:
+    firstdown_f: 24
+    firstdown_s: 9
+    fourthdown_f: 2
+    fourthdown_s: 0
+    plays: 107
+    seconddown_s: 14
+    secondown_f: 12
+    thirddown_f: 12
+    thirddown_s: 4
+  South Dakota State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -940,6 +1930,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   South Florida:
+    firstdown_f: 12
+    firstdown_s: 21
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 103
+    seconddown_s: 13
+    secondown_f: 16
+    thirddown_f: 8
+    thirddown_s: 11
+  Southeast Mo. St.:
+    firstdown_f: 15
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 90
+    seconddown_s: 10
+    secondown_f: 9
+    thirddown_f: 12
+    thirddown_s: 2
+  Southeastern Louisiana:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Southern Illinois:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -950,6 +1970,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Southern Miss:
+    firstdown_f: 20
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 95
+    seconddown_s: 17
+    secondown_f: 7
+    thirddown_f: 7
+    thirddown_s: 9
+  Southern Univ.:
+    firstdown_f: 15
+    firstdown_s: 5
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 76
+    seconddown_s: 3
+    secondown_f: 13
+    thirddown_f: 11
+    thirddown_s: 3
+  Southern Utah:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  St. Francis (PA):
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -960,6 +2010,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Stanford:
+    firstdown_f: 22
+    firstdown_s: 2
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 79
+    seconddown_s: 4
+    secondown_f: 15
+    thirddown_f: 8
+    thirddown_s: 7
+  Stetson:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -969,27 +2029,57 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Stony Brook:
+    firstdown_f: 16
+    firstdown_s: 1
+    fourthdown_f: 2
+    fourthdown_s: 0
+    plays: 68
+    seconddown_s: 6
+    secondown_f: 11
+    thirddown_f: 11
+    thirddown_s: 3
   Syracuse:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 367
+    firstdown_s: 145
+    fourthdown_f: 13
+    fourthdown_s: 26
+    plays: 1518
+    seconddown_s: 146
+    secondown_f: 231
+    thirddown_f: 130
+    thirddown_s: 91
   TCU:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 17
+    firstdown_s: 21
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 92
+    seconddown_s: 19
+    secondown_f: 6
+    thirddown_f: 6
+    thirddown_s: 5
   Temple:
+    firstdown_f: 15
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 68
+    seconddown_s: 11
+    secondown_f: 7
+    thirddown_f: 5
+    thirddown_s: 8
+  Tennessee:
+    firstdown_f: 12
+    firstdown_s: 14
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 82
+    seconddown_s: 11
+    secondown_f: 9
+    thirddown_f: 9
+    thirddown_s: 5
+  Tennessee State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -999,7 +2089,7 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Tennessee:
+  Tennessee Tech:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1010,16 +2100,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Texas:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 17
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 104
+    seconddown_s: 13
+    secondown_f: 12
+    thirddown_f: 12
+    thirddown_s: 4
+  Texas A&M:
+    firstdown_f: 37
+    firstdown_s: 13
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Texas A&M:
+    plays: 113
+    seconddown_s: 23
+    secondown_f: 12
+    thirddown_f: 3
+    thirddown_s: 8
+  Texas Southern:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1030,25 +2130,25 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Texas State:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 7
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 81
+    seconddown_s: 6
+    secondown_f: 10
+    thirddown_f: 12
+    thirddown_s: 1
   Texas Tech:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 22
+    firstdown_s: 19
+    fourthdown_f: 3
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 120
+    seconddown_s: 17
+    secondown_f: 13
+    thirddown_f: 10
+    thirddown_s: 8
   Toledo:
     firstdown_f: 0
     firstdown_s: 0
@@ -1059,37 +2159,57 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Towson:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
   Troy:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 22
+    firstdown_s: 11
+    fourthdown_f: 2
+    fourthdown_s: 3
+    plays: 99
+    seconddown_s: 16
+    secondown_f: 9
+    thirddown_f: 11
+    thirddown_s: 4
   Tulane:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 27
+    firstdown_s: 4
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 102
+    seconddown_s: 5
+    secondown_f: 20
+    thirddown_f: 12
+    thirddown_s: 7
   Tulsa:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 20
+    firstdown_s: 17
+    fourthdown_f: 0
+    fourthdown_s: 2
+    plays: 109
+    seconddown_s: 19
+    secondown_f: 9
+    thirddown_f: 8
+    thirddown_s: 12
+  UAB:
+    firstdown_f: 29
+    firstdown_s: 11
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  UAB:
+    plays: 97
+    seconddown_s: 15
+    secondown_f: 13
+    thirddown_f: 3
+    thirddown_s: 8
+  UC Davis:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1100,25 +2220,35 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   UCF:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 25
+    firstdown_s: 11
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 1
+    plays: 88
+    seconddown_s: 10
+    secondown_f: 12
+    thirddown_f: 2
+    thirddown_s: 9
   UCLA:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 19
+    firstdown_s: 10
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 87
+    seconddown_s: 10
+    secondown_f: 11
+    thirddown_f: 9
+    thirddown_s: 6
+  UConn:
+    firstdown_f: 30
+    firstdown_s: 5
+    fourthdown_f: 2
+    fourthdown_s: 3
+    plays: 106
+    seconddown_s: 8
+    secondown_f: 21
+    thirddown_f: 8
+    thirddown_s: 9
   ULM:
     firstdown_f: 0
     firstdown_s: 0
@@ -1130,56 +2260,76 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   UNLV:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 21
+    firstdown_s: 7
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 94
+    seconddown_s: 14
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 5
   USC:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 21
+    firstdown_s: 13
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 96
+    seconddown_s: 14
+    secondown_f: 10
+    thirddown_f: 9
+    thirddown_s: 7
+  UT Martin:
+    firstdown_f: 13
+    firstdown_s: 10
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 88
+    seconddown_s: 10
+    secondown_f: 9
+    thirddown_f: 11
+    thirddown_s: 3
   UTEP:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
+    firstdown_f: 16
+    firstdown_s: 12
+    fourthdown_f: 1
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 93
+    seconddown_s: 9
+    secondown_f: 11
+    thirddown_f: 10
+    thirddown_s: 7
   UTSA:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 22
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 96
+    seconddown_s: 11
+    secondown_f: 13
+    thirddown_f: 11
+    thirddown_s: 7
   Utah:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    firstdown_f: 27
+    firstdown_s: 8
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 96
+    seconddown_s: 9
+    secondown_f: 16
+    thirddown_f: 9
+    thirddown_s: 5
   Utah State:
+    firstdown_f: 24
+    firstdown_s: 9
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 92
+    seconddown_s: 6
+    secondown_f: 14
+    thirddown_f: 6
+    thirddown_s: 8
+  Valparaiso:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1190,16 +2340,36 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Vanderbilt:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 10
+    firstdown_s: 13
     fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    fourthdown_s: 2
+    plays: 68
+    seconddown_s: 9
+    secondown_f: 7
+    thirddown_f: 6
+    thirddown_s: 7
+  Villanova:
+    firstdown_f: 17
+    firstdown_s: 15
+    fourthdown_f: 0
+    fourthdown_s: 3
+    plays: 99
+    seconddown_s: 12
+    secondown_f: 14
+    thirddown_f: 8
+    thirddown_s: 8
   Virginia:
+    firstdown_f: 14
+    firstdown_s: 18
+    fourthdown_f: 0
+    fourthdown_s: 1
+    plays: 93
+    seconddown_s: 15
+    secondown_f: 10
+    thirddown_f: 5
+    thirddown_s: 9
+  Virginia Military Institute:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1219,37 +2389,67 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
+  Wagner:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
   Wake Forest:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 34
+    firstdown_s: 9
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 113
+    seconddown_s: 12
+    secondown_f: 19
+    thirddown_f: 9
+    thirddown_s: 10
   Washington:
-    firstdown_f: 0
-    firstdown_s: 0
+    firstdown_f: 16
+    firstdown_s: 12
+    fourthdown_f: 1
+    fourthdown_s: 0
+    plays: 90
+    seconddown_s: 4
+    secondown_f: 13
+    thirddown_f: 9
+    thirddown_s: 5
+  Washington St.:
+    firstdown_f: 22
+    firstdown_s: 13
+    fourthdown_f: 1
+    fourthdown_s: 2
+    plays: 102
+    seconddown_s: 18
+    secondown_f: 8
+    thirddown_f: 10
+    thirddown_s: 4
+  Weber State:
+    firstdown_f: 19
+    firstdown_s: 1
     fourthdown_f: 0
     fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
-  Washington State:
-    firstdown_f: 0
-    firstdown_s: 0
-    fourthdown_f: 0
-    fourthdown_s: 0
-    plays: 0
-    seconddown_s: 0
-    secondown_f: 0
-    thirddown_f: 0
-    thirddown_s: 0
+    plays: 79
+    seconddown_s: 1
+    secondown_f: 17
+    thirddown_f: 14
+    thirddown_s: 1
   West Virginia:
+    firstdown_f: 15
+    firstdown_s: 16
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 77
+    seconddown_s: 16
+    secondown_f: 5
+    thirddown_f: 4
+    thirddown_s: 5
+  Western Carolina:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1259,7 +2459,7 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Western Kentucky:
+  Western Illinois:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1269,7 +2469,27 @@ Team:
     secondown_f: 0
     thirddown_f: 0
     thirddown_s: 0
-  Western Michigan:
+  Western Ky.:
+    firstdown_f: 22
+    firstdown_s: 2
+    fourthdown_f: 1
+    fourthdown_s: 1
+    plays: 84
+    seconddown_s: 5
+    secondown_f: 16
+    thirddown_f: 10
+    thirddown_s: 4
+  Western Mich.:
+    firstdown_f: 269
+    firstdown_s: 186
+    fourthdown_f: 13
+    fourthdown_s: 13
+    plays: 1170
+    seconddown_s: 86
+    secondown_f: 148
+    thirddown_f: 104
+    thirddown_s: 26
+  William & Mary:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1280,6 +2500,16 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Wisconsin:
+    firstdown_f: 26
+    firstdown_s: 6
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 87
+    seconddown_s: 11
+    secondown_f: 14
+    thirddown_f: 6
+    thirddown_s: 7
+  Wofford:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
@@ -1290,6 +2520,26 @@ Team:
     thirddown_f: 0
     thirddown_s: 0
   Wyoming:
+    firstdown_f: 41
+    firstdown_s: 15
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 188
+    seconddown_s: 19
+    secondown_f: 28
+    thirddown_f: 19
+    thirddown_s: 11
+  Yale:
+    firstdown_f: 0
+    firstdown_s: 0
+    fourthdown_f: 0
+    fourthdown_s: 0
+    plays: 0
+    seconddown_s: 0
+    secondown_f: 0
+    thirddown_f: 0
+    thirddown_s: 0
+  Youngstown State:
     firstdown_f: 0
     firstdown_s: 0
     fourthdown_f: 0
