@@ -31,19 +31,24 @@ class Play():
         print("Current yards left: %s" %self.yards_left)
         print("Current result: %s" %self.result)
         post_result_yards = int(self.yards_left) - int(self.result)
-        
-        if self.down == 'first':
-            if post_result_yards <= .5 * yards_left:
+        print("POST RESULT YARDS IS %f" %post_result_yards)
+        #2nd and 10 at WMC15     
+        #2-L.Bellamy pushed ob at WMC 23 for 8 yards (41-R.Guthrie).
+        if self.down == '1st':
+            print("I'M IN THE FIRST DOWN LOGIC")
+            print("yards left * .5 is %f" %(.5 * float(self.yards_left)))
+            if float(post_result_yards) <= .5 * float(self.yards_left):
+                print("SUCCESS!!!!!!!!!")
                 self.success =  True
             else:
                 self.success = False
-        if self.down == 'second':
-            if post_result_yards <= .7 * yards_left:
+        if self.down == '2nd':
+            if float(post_result_yards) <= .7 * float(self.yards_left):
                 self.success = True
             else:
                 self.success = False
-        if self.down == 'third' or 'fourth':
-            if post_result_yards <= 0:
+        if self.down == '3rd' or '4th':
+            if float(post_result_yards) <= 0.0:
                 self.success = True
             else:
                 self.success = False

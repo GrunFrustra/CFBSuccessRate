@@ -52,29 +52,17 @@ def read_file(filename):
                 #Update yaml file
                 if current_play.down != None:
                     current_play.determine_success()
+                print("START DEBUG")
+                print("Down: %s" % current_play.down)
+                print("Yards to go: %s " % current_play.yards_left)
+                print("Yards result: %s "% current_play.result)
+                print("Success: %s"% current_play.success)
+                print("END DEBUG")
                 team.update_team(current_team, current_play)
             #prepare next line for start of loop
             data = testfile.readline()
 
 read_file('example')
 
-
-
-#test_play = play.Play()
-#test_play.play_values("1st and 15 at ND31	2-D.Williams to ND 31, \
-#                      FUMBLES (19-T.Muse). 2-D.Williams to ND 31 for\
-#                      no gain.")
-
-#if(test_play.success != None):
-#    test_play.determine_success()
-#    print("Play is %s" %test_play.success)
-
-#test = team.retrieve_team('Boston College')
-#test2 = team.retrieve_team('Alabama')
-#team.update_team('Clemson', test_play)
-#team.update_team('Notre Dame', 0, 0, 445, 112,114, 118, 911, 112, 110)
-#print(team.retrieve_team('Clemson'))
-#print(team.retrieve_team('Notre Dame'))
-#print(test)
 team.commitUpdates()
 team.game_report()

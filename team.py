@@ -45,6 +45,9 @@ def retrieve_team(team_needed):
 def update_team(team_entry, current_play):
     game_report_teams.add(team_entry)
     
+    #Remove white space in broken team names.
+    team_entry = team_entry.strip()
+    
     team_list['Team'][team_entry]['plays'] += 1
     game_list['Team'][team_entry]['plays'] += 1
     print(current_play)
@@ -91,9 +94,9 @@ def game_report():
     
     for x in game_report_teams:
         if i == 0:
-            team1 = x
+            team1 = x.strip()
         elif i == 1:
-            team2 = x
+            team2 = x.strip()
         i += 1
     print("----------")
     print("%s vs. %s" % (team1, team2))
@@ -118,10 +121,22 @@ def game_report():
     team1srate = team1scount / team1fcount
     team2srate = team2scount / team2fcount
     
+    #Print to console
+    print(team1 + "\n")
+    print("Successful Plays: %d \n" % team1scount)
+    print("Failed Plays: %d \n" % team1fcount)
+    print("Success Rate: %f \n" % team1srate)
+    print(team2 + "\n")
+    print("Successful Plays: %d \n" % team2scount)
+    print("Failed Plays: %d \n" % team2fcount)
+    print("Success Rate: %f \n" % team2srate)
+    print("\n")
+    
+    #Append to files
     file_name = team1 + " vs. " + team2
-    write_to_files = [file_name, team1, team2]
+    write_to_files = [team1, team2]
     for x in write_to_files:
-        with open('./Games/' + x, 'a') as fout:
+        with open('./Games/' + x + ".txt", 'a') as fout:
             fout.write(team1 + "\n")
             fout.write("Successful Plays: %d \n" % team1scount)
             fout.write("Failed Plays: %d \n" % team1fcount)
