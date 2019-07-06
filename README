@@ -1,9 +1,9 @@
 README
 
-7/4/2019:
+7/6/2019:
 -Data now prints to a directory.  A File stores each individual team's success rate data.
 -Fixed success rate bugs.
--Still testing edge cases, running  through multiple game's play-by-play data, and catching bugs as they occur.
+-Goal now is to use BeautifulSoup to pull data without a copy and paste.
 
 Note:Initially, play-by-play data is obtained by manually copying and pasting ncaa.com play-by-play recaps into a text file that is 
 overwritten for each game.  Eventually the goal is to have a more complex scraper built that automatically collects this data without a 
