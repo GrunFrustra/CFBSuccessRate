@@ -33,13 +33,17 @@ def read_file(filename):
         data = " "
         current_team = " "
         data = testfile.readline()
+        #Attempt to remove title= from string before the while loop
+        
         while data:
             #Change the team if a line is the start of a drive
+            data = data.replace('title=','')
             print(data)
             if determine_info(data) == 'team':
                 split_data = data.split(' ')
                 current_team = split_data[0]
-        
+                print("THIS IS A TEST")
+                print(data)
                 if split_data[0].lower() == split_data[2].lower():
                     current_team = split_data[0]+ " " + split_data[1]
                 if split_data[0].lower() == split_data[3].lower():
