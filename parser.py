@@ -12,6 +12,8 @@ import play
 
 def determine_info(data):
     start_line = data.split(" ")
+    while("" in start_line) : 
+        start_line.remove("") 
     #determine if a line is a valid team or play header.  Strips blank and
     #quarter announcements
     if len(start_line) < 3:
@@ -40,7 +42,7 @@ def read_file(filename):
             data = data.replace('title=','')
             print(data)
             if determine_info(data) == 'team':
-                split_data = data.split(' ')
+                split_data = data.split()
                 current_team = split_data[0]
                 print("THIS IS A TEST")
                 print(data)
